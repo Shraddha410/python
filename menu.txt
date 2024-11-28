@@ -1,0 +1,5 @@
+Pizza,8.99
+Burger,5.49
+Pasta,7.99
+Sandwich,4.36
+Tea,2.20
